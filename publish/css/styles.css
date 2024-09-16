@@ -1,0 +1,215 @@
+/* Podstawowe ustawienia stylów */
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-size: larger;  
+  color: #ffffff; /* Biały kolor tekstu dla lepszej widoczności na ciemnym tle */
+  background-image: url('../images/background.jpg');
+  background-repeat: repeat;
+}
+
+header {
+  background-color: #202020; /* Ciemny kolor tła */
+  color: #ffffff; /* Biały kolor tekstu */
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px; /* 5px rounded corners */
+}
+
+.content {
+    background-color: #202020; /* Ciemny kolor tła */
+    padding: 20px;
+    text-align: center;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px; /* 5px rounded corners */
+  }
+
+header nav a,
+footer p {
+  color: #ffffff; /* Kolor linków i tekstu w stopce */
+  text-decoration: none;
+  padding: 10px;
+}
+
+header nav a:hover {
+  text-decoration: underline; /* Podkreślenie linku po najechaniu */
+}
+
+
+  
+/* about */
+.artist-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.artist-container div {
+  flex: 1 1 50%;
+  margin: 0;
+}
+.artist-container img {
+  width: 100%;
+  max-width: 450px;
+  border-radius: 10px;
+}
+.artist-text {
+  margin: 25px;
+  max-width: 500px;
+  text-align: left;
+  padding-bottom: 40px;
+
+}
+
+/* index */
+.mosaic {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 200px;
+    grid-gap: 10px;
+}
+.mosaic div {
+    display: block;
+    overflow: hidden;
+}
+.mosaic img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+    border-radius: 10px;
+}
+.mosaic img:hover {
+    transform: scale(1.1);
+}
+.mosaic .large {
+    grid-column: span 2;
+    grid-row: span 2;
+}
+.mosaic .medium {
+    grid-column: span 2;
+}
+.mosaic .tall {
+    grid-column: span 1;
+    grid-row: span 2;
+}
+.counter {
+    text-align: left;
+    padding-top: 20px;
+}
+
+
+.card {
+  margin: 20px;
+  padding: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px; /* 5px rounded corners */
+  max-width: 400px;
+}
+
+/* sculptures */
+
+.lightgallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    max-width: 850px;
+    margin: 0 auto;
+  }
+
+  .gallery-item img {
+    max-height: 450px;
+    min-height: 300px;
+    transition: transform 0.3s ease;
+    border-radius: 10px; /* 5px rounded corners */
+  }
+  .gallery-item img:hover {
+    transform: scale(1.1);
+  }
+
+
+
+.sculpture-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+.sculpture-list .avatar {
+    width: 90px;
+    height: 90px;
+    border-radius: 0%;
+    margin-right: 30px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+    border-radius: 10px;
+    flex-shrink: 0; /* Prevent shrinking */
+
+}
+
+.sculpture-list li {
+    flex: 1 1 calc(50% - 20px); /* Two columns, adjust as needed */
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.sculpture-list a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    font-size: larger;
+}
+
+
+.sculpture-list .avatar:hover {
+    transform: scale(1.5);
+}
+
+
+/* Media query for screens less than 650px */
+@media (max-width: 650px) {
+    .sculpture-list li {
+        flex: 1 1 100%; /* One column */
+    }
+}
+
+
+
+.sculpture-item {
+  background-color: #1e1e1e; /* Ciemniejsze tło dla elementów rzeźby */
+  margin: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.sculpture-item img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+
+
+/* Inne style responsywne */
+/* @media (max-width: 768px) {
+  header,
+  footer {
+    padding: 10px;
+  }
+  .sculpture-item {
+    margin: 10px;
+  }
+} */

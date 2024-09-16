@@ -1,0 +1,652 @@
+[
+  {
+    "id": "emotions",
+    "name": "Emotions",
+    "description": "Brąz patynowany, marmur, kamień. Wysokość 31 cm.",
+    "images": [
+      "Emocje1.jpg",
+      "Emocje2.jpg",
+      "Emocje3.jpg",
+      "Emocje4.jpg",
+      "Emocje5.jpg",
+      "Emocje6.jpg"
+    ],
+    "thumbnail": "images/sculptures/emotions/tn.jpg"
+  },
+  {
+    "id": "angel-of-art-2",
+    "name": "Angel of Art II",
+    "description": "Brąz patynowany, marmur. Wysokość z cokołem: 26cm.",
+    "images": [
+      "angel2_1.jpg",
+      "angel2_2.jpg",
+      "angel2_3.jpg",
+      "angel2_4.jpg",
+      "angel2_5.jpg",
+      "angel2_6.jpg"
+    ],
+    "thumbnail": "images/sculptures/angel-of-art-2/tn.jpg"
+  },
+  {
+    "id": "emotions-2",
+    "name": "Emotions 2",
+    "description": "Brąz patynowany, marmur. Wysokość 35 cm.",
+    "images": [
+      "EmocjeII1.jpg",
+      "EmocjeII2.jpg",
+      "EmocjeII3.jpg",
+      "EmocjeII4.jpg",
+      "EmocjeII5.jpg",
+      "EmocjeII6.jpg"
+    ],
+    "thumbnail": "images/sculptures/emotions-2/tn.jpg"
+  },
+  {
+    "id": "jozef-pilsudzki",
+    "name": "Józef Piłsudski",
+    "description": "Wzór z 1935r. Brąz, marmur. Wysokość 21 cm.",
+    "images": ["Pilsudski1.jpg", "Pilsudski2.jpg", "Pilsudski3.jpg"],
+    "thumbnail": "images/sculptures/jozef-pilsudzki/tn.jpg"
+  },
+  {
+    "id": "ulan-polski",
+    "name": "Ułan polski",
+    "description": "Brąz patynowany, marmur złocisty/polski/. Wysokość z cokołem 23cm.",
+    "images": [
+      "ulan1.jpg",
+      "ulan2.jpg",
+      "ulan3.jpg",
+      "ulan4.jpg",
+      "ulan5.jpg",
+      "ulan6.jpg"
+    ],
+    "thumbnail": "images/sculptures/ulan-polski/tn.jpg"
+  },
+  {
+    "id": "jan-onufry-zagloba",
+    "name": "Jan Onufry Zagłoba",
+    "description": "Brąz, marmur. Wysokość 27 cm.",
+    "images": [
+      "Zagloba1.jpg",
+      "Zagloba2.jpg",
+      "Zagloba3.jpg",
+      "Zagloba4.jpg",
+      "Zagloba5.jpg",
+      "Zagloba6.jpg"
+    ],
+    "thumbnail": "images/sculptures/jan-onufry-zagloba/tn.jpg"
+  },
+  {
+    "id": "verbum-nobile",
+    "name": "Verbum nobile",
+    "description": "brąz, granit 20 cm",
+    "images": [
+      "VERBUM NOBILE 1.jpg",
+      "VERBUM NOBILE 2.jpg",
+      "VERBUM NOBILE 3.jpg",
+      "VERBUM NOBILE 4.jpg",
+      "VERBUM NOBILE 5.jpg",
+      "VERBUM NOBILE 6.jpg"
+    ],
+    "thumbnail": "images/sculptures/verbum-nobile/tn.jpg"
+  },
+  {
+    "id": "tabaka",
+    "name": "Tabaka",
+    "description": "Brąz patynowany, marmur. Wysokość z cokołem 23 cm.",
+    "images": [
+      "Tabaka1.jpg",
+      "Tabaka2.jpg",
+      "Tabaka3.jpg",
+      "Tabaka4.jpg",
+      "Tabaka5.jpg",
+      "Tabaka6.jpg"
+    ],
+    "thumbnail": "images/sculptures/tabaka/tn.jpg"
+  },
+  {
+    "id": "pasja",
+    "name": "Pasja",
+    "description": "brąz srebrzony, marmur",
+    "images": [
+      "PASJA 1.jpg",
+      "PASJA 2.jpg",
+      "PASJA 3.jpg",
+      "PASJA 4.jpg",
+      "PASJA 5.jpg"
+    ],
+    "thumbnail": "images/sculptures/pasja/tn.jpg"
+  },
+  {
+    "id": "klucznik-wg-andriolli",
+    "name": "KLUCZNIK wg E.Andriolli 1881 r.",
+    "description": "Brąz, marmur złocisty. Wysokość 25 cm.",
+    "images": [
+      "klucznik1.jpg",
+      "klucznik2.jpg",
+      "klucznik3.jpg",
+      "klucznik4.jpg",
+      "klucznik5.jpg",
+      "klucznik6.jpg"
+    ],
+    "thumbnail": "images/sculptures/klucznik-wg-andriolli/tn.jpg"
+  },
+  {
+    "id": "kozak",
+    "name": "Kozak",
+    "description": "brąz patynowany, granit 19 cm",
+    "images": ["kozak 1.jpg", "kozak 2.jpg", "kozak 3.jpg", "kozak 4.jpg"],
+    "thumbnail": "images/sculptures/kozak/tn.jpg"
+  },
+  {
+    "id": "wojski",
+    "name": "Wojski",
+    "description": "Brąz patynowany, granit. Wysokość z cokołem 26 cm",
+    "images": [
+      "WOJSKI1.jpg",
+      "WOJSKI2.jpg",
+      "WOJSKI3.jpg",
+      "WOJSKI4.jpg",
+      "WOJSKI5.jpg",
+      "WOJSKI6.jpg"
+    ],
+    "thumbnail": "images/sculptures/wojski/tn.jpg"
+  },
+  {
+    "id": "kozak-victory",
+    "name": "Kozak - Victory",
+    "description": "brąz patynowany, granit. Wysokość 24 cm.",
+    "images": [
+      "Kozak Victory 1.jpg",
+      "Kozak Victory 3.jpg",
+      "Kozak Victory 6.jpg",
+      "Kozak Victory 7.jpg",
+      "Kozak Victory 8.jpg",
+      "Kozak Victory 12.jpg"
+    ],
+    "thumbnail": "images/sculptures/kozak-victory/tn.jpg"
+  },
+
+  {
+    "id": "szlachcic-polski",
+    "name": "Szlachcic polski",
+    "description": "Brąz patynowany, onyks/biały/. Wysokość z cokołem 21cm.",
+    "images": [
+      "szl1.jpg",
+      "szl2.jpg",
+      "szl3.jpg",
+      "szl4.jpg",
+      "szl5.jpg",
+      "szl6.jpg"
+    ],
+    "thumbnail": "images/sculptures/szlachcic-polski/tn.jpg"
+  },
+
+  {
+    "id": "aniol-domu",
+    "name": "Anioł domu",
+    "description": "Brąz patynowany, onyks. Wysokość z cokołem 35 cm.",
+    "images": [
+      "aniol_domu_1.jpg",
+      "aniol_domu_2.jpg",
+      "aniol_domu_3.jpg",
+      "aniol_domu_4.jpg",
+      "aniol_domu_5.jpg",
+      "aniol_domu_6.jpg"
+    ],
+    "thumbnail": "images/sculptures/aniol-domu/tn.jpg"
+  },
+
+  {
+    "id": "temida-3",
+    "name": "Temida III",
+    "description": "Brąz patynowany, bursztyn bałtycki, granit. Wysokość z cokołem 36 cm.",
+    "images": [
+      "temida3_1.jpg",
+      "temida3_2.jpg",
+      "temida3_3.jpg",
+      "temida3_4.jpg",
+      "temida3_5.jpg",
+      "temida3_6.jpg"
+    ],
+    "thumbnail": "images/sculptures/temida-3/tn.jpg"
+  },
+  {
+    "id": "aniol-polski",
+    "name": "Anioł polski",
+    "description": "Brąz patynowany, cokół z aragonitu, kamienie szlachetne: rubin, ametyst oraz cyrkonie i czarny onyks. Wysokość z cokołem 21 cm.",
+    "images": [
+      "aniolPolski2_1.jpg",
+      "aniolPolski2_2.jpg",
+      "aniolPolski2_3.jpg",
+      "aniolPolski2_4.jpg",
+      "aniolPolski2_5.jpg",
+      "aniolPolski2_6.jpg"
+    ],
+    "thumbnail": "images/sculptures/aniol-polski/tn.jpg"
+  },
+
+  {
+    "id": "temida-4",
+    "name": "Temida IV",
+    "description": "Brąz,bursztyn bałtycki, marmur złocisty /polski/. Wysokość 40cm.",
+    "images": [
+      "temida4_1.jpg",
+      "temida4_2.jpg",
+      "temida4_3.jpg",
+      "temida4_4.jpg",
+      "temida4_5.jpg"
+    ],
+    "thumbnail": "images/sculptures/temida-4/tn.jpg"
+  },
+  {
+    "id": "aniol-polski-zaduma",
+    "name": "Anioł polski - zaduma",
+    "description": "brąz patynowany, marmur, kamień 18 cm",
+    "images": [
+      "aniol1.jpg",
+      "aniol2.jpg",
+      "aniol3.jpg",
+      "aniol4.jpg",
+      "aniol5.jpg",
+      "aniol6.jpg",
+      "aniol7.jpg"
+    ],
+    "thumbnail": "images/sculptures/aniol-polski-zaduma/tn.jpg"
+  },
+
+  {
+    "id": "tatry-1927",
+    "name": "Tatry 1927",
+    "description": "brąz patynowany, granit 15 cm.",
+    "images": ["TATRY 1927 A.jpg", "TATRY 1927 B.jpg", "TATRY 1927 C.jpg"],
+    "thumbnail": "images/sculptures/tatry-1927/tn.jpg"
+  },
+
+  {
+    "id": "mazur-polish-dance",
+    "name": "\"Mazur\" /polish dance/",
+    "description": "Brąz, marmur. Wysokość 26 cm.",
+    "images": [
+      "Mazur_1.jpg",
+      "Mazur_2.jpg",
+      "Mazur_3.jpg",
+      "Mazur_4.jpg",
+      "Mazur_5.jpg",
+      "Mazur_6.jpg"
+    ],
+    "thumbnail": "images/sculptures/mazur-polish-dance/tn.jpg"
+  },
+
+  {
+    "id": "tatry-1932",
+    "name": "Tatry 1932",
+    "description": "Brąz patynowany, szkło. Wysokość łączna 14,5 cm.",
+    "images": [
+      "tatry1932_1.jpg",
+      "tatry1932_2.jpg",
+      "tatry1932_3.jpg",
+      "tatry1932_4.jpg",
+      "tatry1932_5.jpg",
+      "tatry1932_6.jpg"
+    ],
+    "thumbnail": "images/sculptures/tatry-1932/tn.jpg"
+  },
+  {
+    "id": "vivat-rex",
+    "name": "Viva't Rex",
+    "description": "brąz patynowany, granit - marmur 22 cm",
+    "images": [
+      "VivatRex1.jpg",
+      "VivatRex2.jpg",
+      "VivatRex3.jpg",
+      "VivatRex4.jpg",
+      "VivatRex5.jpg",
+      "VivatRex6.jpg"
+    ],
+    "thumbnail": "images/sculptures/vivat-rex/tn.jpg"
+  },
+  {
+    "id": "swiety-jerzy",
+    "name": "Święty Jerzy",
+    "description": "Brąz, marmur 20 cm.",
+    "images": ["swjerzy1.jpg", "swjerzy2.jpg", "swjerzy3.jpg", "swjerzy4.jpg"],
+    "thumbnail": "images/sculptures/swiety-jerzy/tn.jpg"
+  },
+
+  {
+    "id": "stary-wiarus",
+    "name": "Stary wiarus",
+    "description": "brąz patynowany, marmur. Wysokość 24 cm",
+    "images": [
+      "StaryW1.jpg",
+      "StaryW2.jpg",
+      "StaryW3.jpg",
+      "StaryW4.jpg",
+      "StaryW5.jpg",
+      "StaryW6.jpg"
+    ],
+    "thumbnail": "images/sculptures/stary-wiarus/tn.jpg"
+  },
+
+  {
+    "id": "pierrot-z-mandolina",
+    "name": "Pierrot z mandoliną",
+    "description": "Brąz srebrzony, marmur 13 cm.",
+    "images": [
+      "pierotman1.jpg",
+      "pierotman2.jpg",
+      "pierotman3.jpg",
+      "pierotman4.jpg",
+      "pierotman5.jpg",
+      "pierotman6.jpg"
+    ],
+    "thumbnail": "images/sculptures/pierrot-z-mandolina/tn.jpg"
+  },
+
+  {
+    "id": "longinus-podbipieta",
+    "name": "Longinus Podbipięta",
+    "description": "Brąz patynowany. Podstawa: kamień, granit, brąz (podklejany skórą) - wysokość 27 cm.",
+    "images": [
+      "Podbipieta 1.jpg",
+      "Podbipieta 2.jpg",
+      "Podbipieta 3.jpg",
+      "Podbipieta 4.jpg",
+      "Podbipieta 5.jpg",
+      "Podbipieta 6.jpg"
+    ],
+    "thumbnail": "images/sculptures/longinus-podbipieta/tn.jpg"
+  },
+
+  {
+    "id": "gregorian-man",
+    "name": "Gregorian man",
+    "description": "Brąz patynowany, granit, onyks biały. Wysokość łączna 30 cm.",
+    "images": [
+      "gregorianman_1.jpg",
+      "gregorianman_2.jpg",
+      "gregorianman_3.jpg",
+      "gregorianman_4.jpg",
+      "gregorianman_5.jpg",
+      "gregorianman_6.jpg"
+    ],
+    "thumbnail": "images/sculptures/gregorian-man/tn.jpg"
+  },
+
+  {
+    "id": "warszawa",
+    "name": "Warszawa",
+    "description": "Brąz patynowany, piaskowiec. Wysokość 36 cm.",
+    "images": [
+      "Warszawa1.jpg",
+      "Warszawa2.jpg",
+      "Warszawa3.jpg",
+      "Warszawa4.jpg",
+      "Warszawa5.jpg",
+      "Warszawa6.jpg"
+    ],
+    "thumbnail": "images/sculptures/warszawa/tn.jpg"
+  },
+
+  {
+    "id": "gregorian-man-2",
+    "name": "II Gregorian Man",
+    "description": "Brąz patynowany, marmur. Łączna wysokość 31 cm.",
+    "images": [
+      "gregorian1.jpg",
+      "gregorian2.jpg",
+      "gregorian3.jpg",
+      "gregorian4.jpg",
+      "gregorian5.jpg",
+      "gregorian6.jpg"
+    ],
+    "thumbnail": "images/sculptures/gregorian-man-2/tn.jpg"
+  },
+
+  {
+    "id": "pierrot-wosk",
+    "name": "Pierrot",
+    "description": "rzeźba w wosku. brąz patynowany - alabaster 20 cm",
+    "images": [
+      "pierrot_wosk1.jpg",
+      "pierrot_wosk2.jpg",
+      "pierrot_wosk4.jpg",
+      "pierrot_wosk5.jpg",
+      "pierrot_wosk6.jpg"
+    ],
+    "thumbnail": "images/sculptures/pierrot-wosk/tn.jpg"
+  },
+
+  {
+    "id": "gregorian-man-3",
+    "name": "III Gregorian Man",
+    "description": "Brąz, granit, aragonit. Wysokość całkowita 33 cm.",
+    "images": [
+      "gregorian3_1.jpg",
+      "gregorian3_2.jpg",
+      "gregorian3_3.jpg",
+      "gregorian3_4.jpg",
+      "gregorian3_5.jpg"
+    ],
+    "thumbnail": "images/sculptures/gregorian-man-3/tn.jpg"
+  },
+
+  {
+    "id": "liberum-veto",
+    "name": "Liberum veto",
+    "description": "brąz patynowany, granit 19,5 cm",
+    "images": [
+      "LIBERUM VETO 1.jpg",
+      "LIBERUM VETO 2.jpg",
+      "LIBERUM VETO 3.jpg",
+      "LIBERUM VETO 4.jpg",
+      "LIBERUM VETO 5.jpg"
+    ],
+    "thumbnail": "images/sculptures/liberum-veto/tn.jpg"
+  },
+
+  {
+    "id": "szczyt-zdobyty",
+    "name": "Szczyt zdobyty",
+    "description": "Brąz patynowany, szkło. Wysokość 16 cm.",
+    "images": [
+      "szczytzdobyty_1.jpg",
+      "szczytzdobyty_2.jpg",
+      "szczytzdobyty_3.jpg",
+      "szczytzdobyty_4.jpg",
+      "szczytzdobyty_5.jpg",
+      "szczytzdobyty_6.jpg"
+    ],
+    "thumbnail": "images/sculptures/szczyt-zdobyty/tn.jpg"
+  },
+
+  {
+    "id": "mala-flecistka",
+    "name": "Mała flecistka",
+    "description": "brąz, alabaster",
+    "images": [
+      "MALA FLECISTKA 1.jpg",
+      "MALA FLECISTKA 2.jpg",
+      "MALA FLECISTKA 3.jpg",
+      "MALA FLECISTKA 4.jpg"
+    ],
+    "thumbnail": "images/sculptures/mala-flecistka/tn.jpg"
+  },
+
+  {
+    "id": "zygmunt-iii-waza",
+    "name": "Zygmunt III Waza",
+    "description": "Brąz patynowany, granit. Wysokość: 25,5 cm.",
+    "images": [
+      "ZYGMUNT III 1.jpg",
+      "ZYGMUNT III 2.jpg",
+      "ZYGMUNT III 3.jpg",
+      "ZYGMUNT III 4.jpg",
+      "ZYGMUNT III 5.jpg",
+      "ZYGMUNT III 6.jpg"
+    ],
+    "thumbnail": "images/sculptures/zygmunt-iii-waza/tn.jpg"
+  },
+
+  {
+    "id": "pierrot",
+    "name": "Pierrot",
+    "description": "brąz posrebrzany, alabaster 15 cm",
+    "images": [
+      "PIERROT 1.jpg",
+      "PIERROT 2.jpg",
+      "PIERROT 3.jpg",
+      "PIERROT 4.jpg"
+    ],
+    "thumbnail": "images/sculptures/pierrot/tn.jpg"
+  },
+
+  {
+    "id": "huzar-francuski-7-pulku",
+    "name": "Huzar francuski 7 pułku. Rok 1807",
+    "description": "Brąz patynowany, marmur. Wysokość z cokołem 25 cm.",
+    "images": [
+      "huzar1.jpg",
+      "huzar2.jpg",
+      "huzar3.jpg",
+      "huzar4.jpg",
+      "huzar5.jpg",
+      "huzar6.jpg"
+    ],
+    "thumbnail": "images/sculptures/huzar-francuski-7-pulku/tn.jpg"
+  },
+
+  {
+    "id": "serenada-2",
+    "name": "Serenada II",
+    "description": "Brąz patynowany,marmur biały. Wysokość z cokołem 26cm.",
+    "images": [
+      "Serenada2_1.jpg",
+      "Serenada2_2.jpg",
+      "Serenada2_3.jpg",
+      "Serenada2_4.jpg",
+      "Serenada2_5.jpg",
+      "Serenada2_6.jpg"
+    ],
+    "thumbnail": "images/sculptures/serenada-2/tn.jpg"
+  },
+
+  {
+    "id": "dudziarz",
+    "name": "Dudziarz",
+    "description": "Mosiądz, kość, granit 14 cm.",
+    "images": [
+      "dudziarz 1.jpg",
+      "dudziarz 2.jpg",
+      "dudziarz 3.jpg",
+      "dudziarz 4.jpg"
+    ],
+    "thumbnail": "images/sculptures/dudziarz/tn.jpg"
+  },
+
+  {
+    "id": "temida-polska",
+    "name": "Temida polska",
+    "description": "Brąz, marmur, drewno. Wysokość z cokołem 29,5cm.",
+    "images": [
+      "TemidaV1.jpg",
+      "TemidaV2.jpg",
+      "TemidaV3.jpg",
+      "TemidaV4.jpg",
+      "TemidaV5.jpg",
+      "TemidaV6.jpg"
+    ],
+    "thumbnail": "images/sculptures/temida-polska/tn.jpg"
+  },
+
+  {
+    "id": "batorowski-rycerz",
+    "name": "Batorowski rycerz bez skazy-lwie serce. Wg Jana Matejki",
+    "description": "Brąz-marmur, 22 cm.",
+    "images": [
+      "Batorowski1.jpg",
+      "Batorowski2.jpg",
+      "Batorowski3.jpg",
+      "Batorowski4.jpg",
+      "Batorowski5.jpg",
+      "Batorowski6.jpg"
+    ],
+    "thumbnail": "images/sculptures/batorowski-rycerz/tn.jpg"
+  },
+
+  {
+    "id": "temida-bursztynowa",
+    "name": "Temida bursztynowa",
+    "description": "Płaskorzeźba. Brąz, bursztyn bałtycki, marmur. Wysokość z cokołem: 32 cm",
+    "images": [
+      "TemidaBursztynowa1.jpg",
+      "TemidaBursztynowa2.jpg",
+      "TemidaBursztynowa3.jpg",
+      "TemidaBursztynowa4.jpg",
+      "TemidaBursztynowa5.jpg",
+      "TemidaBursztynowa6.jpg"
+    ],
+    "thumbnail": "images/sculptures/temida-bursztynowa/tn.jpg"
+  },
+
+  {
+    "id": "rycerz-polski",
+    "name": "Rycerz polski 1410",
+    "description": "Brąz patynowany, kamień naturalny. Wysokość 19,5 cm",
+    "images": [
+      "RycerzPolski1.jpg",
+      "RycerzPolski2.jpg",
+      "RycerzPolski3.jpg",
+      "RycerzPolski4.jpg",
+      "RycerzPolski5.jpg",
+      "RycerzPolski6.jpg"
+    ],
+    "thumbnail": "images/sculptures/rycerz-polski/tn.jpg"
+  },
+
+  {
+    "id": "zolnierz-polski-1939",
+    "name": "Żołnierz Polski 1939",
+    "description": "Brąz patynowany, granit. Wysokość: 24cm.",
+    "images": [
+      "zolnierz_1.jpg",
+      "zolnierz_2.jpg",
+      "zolnierz_3.jpg",
+      "zolnierz_4.jpg",
+      "zolnierz_5.jpg",
+      "zolnierz_6.jpg"
+    ],
+    "thumbnail": "images/sculptures/zolnierz-polski-1939/tn.jpg"
+  },
+
+  {
+    "id": "sailors-angel",
+    "name": "Sailors' Angel",
+    "description": "Brąz, bursztyn bałtycki, marmur. Wysokość 24 cm.",
+    "images": [
+      "SailorsAngel1.jpg",
+      "SailorsAngel2.jpg",
+      "SailorsAngel3.jpg",
+      "SailorsAngel4.jpg",
+      "SailorsAngel5.jpg",
+      "SailorsAngel6.jpg"
+    ],
+    "thumbnail": "images/sculptures/sailors-angel/tn.jpg"
+  },
+
+  {
+    "id": "angel-of-art",
+    "name": "Angel of Art",
+    "description": "Brąz patynowany, marmur. Wysokość łączna: 24cm",
+    "images": [
+      "angel1.jpg",
+      "angel2.jpg",
+      "angel3.jpg",
+      "angel4.jpg",
+      "angel5.jpg",
+      "angel6.jpg"
+    ],
+    "thumbnail": "images/sculptures/angel-of-art/tn.jpg"
+  }
+]

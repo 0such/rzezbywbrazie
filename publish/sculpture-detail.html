@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Language" content="pl">
+    <title>Rzeźby w brązie</title>
+    <meta name="description" content="Prezentacja rzeźb magistra sztuki. Możliwość kontaktu telefonicznego.">
+    <meta name="keywords" content="rzeźby w brązie">
+    <meta name="categories" content="Rzeźby w brązie">
+    <link rel="shortcut icon" href="favicon.gif">
+    <link rel="icon" type="image/png" href="favicon.gif">
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/lightgallery.js/dist/css/lightgallery.min.css"
+    />
+    <style>
+
+.lightgallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+
+
+
+      .gallery-item img {
+        max-height: 450px;  
+        min-height: 300px;
+        transition: transform 0.3s ease;
+        border-radius: 10px; /* 5px rounded corners */
+      }
+      .gallery-item img:hover {
+        transform: scale(1.1);
+      } 
+     
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1 id="sculptureName">Szczegóły rzeźby</h1>
+      <nav>
+        <a href="index.html">Strona Główna</a>
+        <a href="about.html">O Autorze</a>
+        <a href="sculptures.html">Rzeźby</a>
+      </nav>
+    </header>
+    <section class="content">
+      <p id="sculptureDescription">Szczegóły rzeźby</p>
+      <div class="qwe">
+        <div id="sculptureGallery" class="lightgallery"></div>
+      </div>
+      
+    </section>
+    <footer>
+      <p>&copy; 2024 Dariusz Bąkowski</p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/lightgallery.js/dist/js/lightgallery.min.js"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const urlParams = new URLSearchParams(window.location.search);
+        const sculptureId = urlParams.get('id');
+
+        if (sculptureId) {
+          fetch('sculptures.json')
+            .then((response) => response.json())
+            .then((data) => {
+              const sculpture = data.find((s) => s.id === sculptureId);
+              if (sculpture) {
+                document.getElementById('sculptureName').textContent =
+                  sculpture.name;
+                document.getElementById('sculptureDescription').textContent =
+                  sculpture.description;
+                const galleryContainer =
+                  document.getElementById('sculptureGallery');
+                sculpture.images.forEach((img) => {
+                  const thumbnail =
+                    'images/sculptures/' + sculpture.id + '/tn_' + img;
+                  const linkElement = document.createElement('a');
+                  linkElement.href =
+                    'images/sculptures/' + sculpture.id + '/' + img;
+                  linkElement.dataset.src =
+                    'images/sculptures/' + sculpture.id + '/' + img;
+                  linkElement.classList.add('gallery-item');
+                  const imageElement = document.createElement('img');
+                  imageElement.src = thumbnail;
+                  imageElement.alt = sculpture.name;
+                  linkElement.appendChild(imageElement);
+                  galleryContainer.appendChild(linkElement);
+                });
+                lightGallery(galleryContainer, {
+                  thumbnail: true,
+                });
+              } else {
+                document.querySelector('.content').innerHTML =
+                  '<p>Rzeźba nie znaleziona.</p>';
+              }
+            })
+            .catch((error) =>
+              console.error('Error loading sculpture details:', error)
+            );
+        } else {
+          document.querySelector('.content').innerHTML =
+            '<p>Brak ID rzeźby.</p>';
+        }
+      });
+    </script>
+  </body>
+</html>
