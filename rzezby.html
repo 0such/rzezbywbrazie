@@ -21,8 +21,8 @@
         <h1>Rzeźby</h1>
         <nav>
             <a href="index.html">Strona Główna</a>
-            <a href="about.html">O Autorze</a>
-            <a href="sculptures.html">Rzeźby</a>
+            <a href="autor.html">O Autorze</a>
+            <a href="rzezby.html">Rzeźby</a>
         </nav>
     </header>
     <section class="content">
@@ -40,7 +40,7 @@
                     data.forEach(sculpture => {
                         const listItem = document.createElement('li');
                         const link = document.createElement('a');
-                        link.href = `sculpture-detail.html?id=${sculpture.id}`;
+                        link.href = `rzezba.html?id=${sculpture.id}`;
                         const img = document.createElement('img');
                         img.src = sculpture.thumbnail;
                         img.alt = sculpture.name;
