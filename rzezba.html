@@ -3,46 +3,47 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="Content-Language" content="pl">
+    <meta http-equiv="Content-Language" content="pl" />
     <title>Rzeźby w brązie</title>
-    <meta name="description" content="Prezentacja rzeźb magistra sztuki. Możliwość kontaktu telefonicznego.">
-    <meta name="keywords" content="rzeźby w brązie">
-    <meta name="categories" content="Rzeźby w brązie">
-    <link rel="shortcut icon" href="favicon.gif">
-    <link rel="icon" type="image/png" href="favicon.gif">
+    <meta
+      name="description"
+      content="Prezentacja rzeźb magistra sztuki. Możliwość kontaktu telefonicznego."
+    />
+    <meta name="keywords" content="rzeźby w brązie" />
+    <meta name="categories" content="Rzeźby w brązie" />
+    <link rel="shortcut icon" href="favicon.gif" />
+    <link rel="icon" type="image/png" href="favicon.gif" />
     <link rel="stylesheet" href="css/styles.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/lightgallery.js/dist/css/lightgallery.min.css"
     />
     <style>
-
-.lightgallery{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 12px;
-    max-width: 850px;
-    margin: 0 auto;
-}
-
-
-
+      .lightgallery {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 12px;
+        max-width: 850px;
+        margin: 0 auto;
+      }
 
       .gallery-item img {
-        max-height: 450px;  
+        max-height: 450px;
         min-height: 300px;
         transition: transform 0.3s ease;
         border-radius: 10px; /* 5px rounded corners */
       }
       .gallery-item img:hover {
         transform: scale(1.1);
-      } 
-     
+      }
     </style>
   </head>
   <body>
@@ -59,10 +60,12 @@
       <div class="qwe">
         <div id="sculptureGallery" class="lightgallery"></div>
       </div>
-      
     </section>
     <footer>
-      <p>&copy; 2024 Dariusz Bąkowski</p>
+      <p>
+        &copy; 2024 Dariusz Bąkowski | Wszystkie prawa zastrzeżone. Zdjęcia
+        rzeźb objęte są prawami autorskimi.
+      </p>
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/lightgallery.js/dist/js/lightgallery.min.js"></script>
     <script>
@@ -99,6 +102,10 @@
                 });
                 lightGallery(galleryContainer, {
                   thumbnail: true,
+                  download: false,
+                  share: false,
+                  zoom: true,
+                  scale: 1,
                 });
               } else {
                 document.querySelector('.content').innerHTML =

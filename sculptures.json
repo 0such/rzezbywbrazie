@@ -11,7 +11,8 @@
       "Emocje5.jpg",
       "Emocje6.jpg"
     ],
-    "thumbnail": "images/sculptures/emotions/tn.jpg"
+    "thumbnail": "images/sculptures/emotions/tn.jpg",
+    "active": true
   },
   {
     "id": "angel-of-art-2",
@@ -25,7 +26,8 @@
       "angel2_5.jpg",
       "angel2_6.jpg"
     ],
-    "thumbnail": "images/sculptures/angel-of-art-2/tn.jpg"
+    "thumbnail": "images/sculptures/angel-of-art-2/tn.jpg",
+    "active": true
   },
   {
     "id": "emotions-2",
@@ -39,14 +41,16 @@
       "EmocjeII5.jpg",
       "EmocjeII6.jpg"
     ],
-    "thumbnail": "images/sculptures/emotions-2/tn.jpg"
+    "thumbnail": "images/sculptures/emotions-2/tn.jpg",
+    "active": true
   },
   {
     "id": "jozef-pilsudzki",
     "name": "Józef Piłsudski",
     "description": "Wzór z 1935r. Brąz, marmur. Wysokość 21 cm.",
     "images": ["Pilsudski1.jpg", "Pilsudski2.jpg", "Pilsudski3.jpg"],
-    "thumbnail": "images/sculptures/jozef-pilsudzki/tn.jpg"
+    "thumbnail": "images/sculptures/jozef-pilsudzki/tn.jpg",
+    "active": true
   },
   {
     "id": "ulan-polski",
@@ -60,7 +64,8 @@
       "ulan5.jpg",
       "ulan6.jpg"
     ],
-    "thumbnail": "images/sculptures/ulan-polski/tn.jpg"
+    "thumbnail": "images/sculptures/ulan-polski/tn.jpg",
+    "active": true
   },
   {
     "id": "jan-onufry-zagloba",
@@ -74,7 +79,8 @@
       "Zagloba5.jpg",
       "Zagloba6.jpg"
     ],
-    "thumbnail": "images/sculptures/jan-onufry-zagloba/tn.jpg"
+    "thumbnail": "images/sculptures/jan-onufry-zagloba/tn.jpg",
+    "active": true
   },
   {
     "id": "verbum-nobile",
@@ -88,7 +94,8 @@
       "VERBUM NOBILE 5.jpg",
       "VERBUM NOBILE 6.jpg"
     ],
-    "thumbnail": "images/sculptures/verbum-nobile/tn.jpg"
+    "thumbnail": "images/sculptures/verbum-nobile/tn.jpg",
+    "active": true
   },
   {
     "id": "tabaka",
@@ -102,7 +109,8 @@
       "Tabaka5.jpg",
       "Tabaka6.jpg"
     ],
-    "thumbnail": "images/sculptures/tabaka/tn.jpg"
+    "thumbnail": "images/sculptures/tabaka/tn.jpg",
+    "active": true
   },
   {
     "id": "pasja",
@@ -115,7 +123,8 @@
       "PASJA 4.jpg",
       "PASJA 5.jpg"
     ],
-    "thumbnail": "images/sculptures/pasja/tn.jpg"
+    "thumbnail": "images/sculptures/pasja/tn.jpg",
+    "active": true
   },
   {
     "id": "klucznik-wg-andriolli",
@@ -129,14 +138,16 @@
       "klucznik5.jpg",
       "klucznik6.jpg"
     ],
-    "thumbnail": "images/sculptures/klucznik-wg-andriolli/tn.jpg"
+    "thumbnail": "images/sculptures/klucznik-wg-andriolli/tn.jpg",
+    "active": true
   },
   {
     "id": "kozak",
     "name": "Kozak",
     "description": "brąz patynowany, granit 19 cm",
     "images": ["kozak 1.jpg", "kozak 2.jpg", "kozak 3.jpg", "kozak 4.jpg"],
-    "thumbnail": "images/sculptures/kozak/tn.jpg"
+    "thumbnail": "images/sculptures/kozak/tn.jpg",
+    "active": true
   },
   {
     "id": "wojski",
@@ -150,7 +161,8 @@
       "WOJSKI5.jpg",
       "WOJSKI6.jpg"
     ],
-    "thumbnail": "images/sculptures/wojski/tn.jpg"
+    "thumbnail": "images/sculptures/wojski/tn.jpg",
+    "active": true
   },
   {
     "id": "kozak-victory",
@@ -164,7 +176,8 @@
       "Kozak Victory 8.jpg",
       "Kozak Victory 12.jpg"
     ],
-    "thumbnail": "images/sculptures/kozak-victory/tn.jpg"
+    "thumbnail": "images/sculptures/kozak-victory/tn.jpg",
+    "active": true
   },
 
   {
@@ -179,7 +192,8 @@
       "szl5.jpg",
       "szl6.jpg"
     ],
-    "thumbnail": "images/sculptures/szlachcic-polski/tn.jpg"
+    "thumbnail": "images/sculptures/szlachcic-polski/tn.jpg",
+    "active": true
   },
 
   {
@@ -194,7 +208,8 @@
       "aniol_domu_5.jpg",
       "aniol_domu_6.jpg"
     ],
-    "thumbnail": "images/sculptures/aniol-domu/tn.jpg"
+    "thumbnail": "images/sculptures/aniol-domu/tn.jpg",
+    "active": true
   },
 
   {
@@ -209,7 +224,8 @@
       "temida3_5.jpg",
       "temida3_6.jpg"
     ],
-    "thumbnail": "images/sculptures/temida-3/tn.jpg"
+    "thumbnail": "images/sculptures/temida-3/tn.jpg",
+    "active": true
   },
   {
     "id": "aniol-polski",
@@ -223,7 +239,8 @@
       "aniolPolski2_5.jpg",
       "aniolPolski2_6.jpg"
     ],
-    "thumbnail": "images/sculptures/aniol-polski/tn.jpg"
+    "thumbnail": "images/sculptures/aniol-polski/tn.jpg",
+    "active": true
   },
 
   {
@@ -237,7 +254,8 @@
       "temida4_4.jpg",
       "temida4_5.jpg"
     ],
-    "thumbnail": "images/sculptures/temida-4/tn.jpg"
+    "thumbnail": "images/sculptures/temida-4/tn.jpg",
+    "active": true
   },
   {
     "id": "aniol-polski-zaduma",
@@ -252,7 +270,8 @@
       "aniol6.jpg",
       "aniol7.jpg"
     ],
-    "thumbnail": "images/sculptures/aniol-polski-zaduma/tn.jpg"
+    "thumbnail": "images/sculptures/aniol-polski-zaduma/tn.jpg",
+    "active": true
   },
 
   {
@@ -260,7 +279,8 @@
     "name": "Tatry 1927",
     "description": "brąz patynowany, granit 15 cm.",
     "images": ["TATRY 1927 A.jpg", "TATRY 1927 B.jpg", "TATRY 1927 C.jpg"],
-    "thumbnail": "images/sculptures/tatry-1927/tn.jpg"
+    "thumbnail": "images/sculptures/tatry-1927/tn.jpg",
+    "active": false
   },
 
   {
@@ -275,7 +295,8 @@
       "Mazur_5.jpg",
       "Mazur_6.jpg"
     ],
-    "thumbnail": "images/sculptures/mazur-polish-dance/tn.jpg"
+    "thumbnail": "images/sculptures/mazur-polish-dance/tn.jpg",
+    "active": true
   },
 
   {
@@ -290,7 +311,8 @@
       "tatry1932_5.jpg",
       "tatry1932_6.jpg"
     ],
-    "thumbnail": "images/sculptures/tatry-1932/tn.jpg"
+    "thumbnail": "images/sculptures/tatry-1932/tn.jpg",
+    "active": true
   },
   {
     "id": "vivat-rex",
@@ -304,14 +326,16 @@
       "VivatRex5.jpg",
       "VivatRex6.jpg"
     ],
-    "thumbnail": "images/sculptures/vivat-rex/tn.jpg"
+    "thumbnail": "images/sculptures/vivat-rex/tn.jpg",
+    "active": true
   },
   {
     "id": "swiety-jerzy",
     "name": "Święty Jerzy",
     "description": "Brąz, marmur 20 cm.",
     "images": ["swjerzy1.jpg", "swjerzy2.jpg", "swjerzy3.jpg", "swjerzy4.jpg"],
-    "thumbnail": "images/sculptures/swiety-jerzy/tn.jpg"
+    "thumbnail": "images/sculptures/swiety-jerzy/tn.jpg",
+    "active": true
   },
 
   {
@@ -326,7 +350,8 @@
       "StaryW5.jpg",
       "StaryW6.jpg"
     ],
-    "thumbnail": "images/sculptures/stary-wiarus/tn.jpg"
+    "thumbnail": "images/sculptures/stary-wiarus/tn.jpg",
+    "active": true
   },
 
   {
@@ -341,7 +366,8 @@
       "pierotman5.jpg",
       "pierotman6.jpg"
     ],
-    "thumbnail": "images/sculptures/pierrot-z-mandolina/tn.jpg"
+    "thumbnail": "images/sculptures/pierrot-z-mandolina/tn.jpg",
+    "active": true
   },
 
   {
@@ -356,7 +382,8 @@
       "Podbipieta 5.jpg",
       "Podbipieta 6.jpg"
     ],
-    "thumbnail": "images/sculptures/longinus-podbipieta/tn.jpg"
+    "thumbnail": "images/sculptures/longinus-podbipieta/tn.jpg",
+    "active": true
   },
 
   {
@@ -371,7 +398,8 @@
       "gregorianman_5.jpg",
       "gregorianman_6.jpg"
     ],
-    "thumbnail": "images/sculptures/gregorian-man/tn.jpg"
+    "thumbnail": "images/sculptures/gregorian-man/tn.jpg",
+    "active": true
   },
 
   {
@@ -386,7 +414,8 @@
       "Warszawa5.jpg",
       "Warszawa6.jpg"
     ],
-    "thumbnail": "images/sculptures/warszawa/tn.jpg"
+    "thumbnail": "images/sculptures/warszawa/tn.jpg",
+    "active": true
   },
 
   {
@@ -401,7 +430,8 @@
       "gregorian5.jpg",
       "gregorian6.jpg"
     ],
-    "thumbnail": "images/sculptures/gregorian-man-2/tn.jpg"
+    "thumbnail": "images/sculptures/gregorian-man-2/tn.jpg",
+    "active": true
   },
 
   {
@@ -415,7 +445,8 @@
       "pierrot_wosk5.jpg",
       "pierrot_wosk6.jpg"
     ],
-    "thumbnail": "images/sculptures/pierrot-wosk/tn.jpg"
+    "thumbnail": "images/sculptures/pierrot-wosk/tn.jpg",
+    "active": true
   },
 
   {
@@ -429,7 +460,8 @@
       "gregorian3_4.jpg",
       "gregorian3_5.jpg"
     ],
-    "thumbnail": "images/sculptures/gregorian-man-3/tn.jpg"
+    "thumbnail": "images/sculptures/gregorian-man-3/tn.jpg",
+    "active": true
   },
 
   {
@@ -443,7 +475,8 @@
       "LIBERUM VETO 4.jpg",
       "LIBERUM VETO 5.jpg"
     ],
-    "thumbnail": "images/sculptures/liberum-veto/tn.jpg"
+    "thumbnail": "images/sculptures/liberum-veto/tn.jpg",
+    "active": true
   },
 
   {
@@ -458,7 +491,8 @@
       "szczytzdobyty_5.jpg",
       "szczytzdobyty_6.jpg"
     ],
-    "thumbnail": "images/sculptures/szczyt-zdobyty/tn.jpg"
+    "thumbnail": "images/sculptures/szczyt-zdobyty/tn.jpg",
+    "active": true
   },
 
   {
@@ -471,7 +505,8 @@
       "MALA FLECISTKA 3.jpg",
       "MALA FLECISTKA 4.jpg"
     ],
-    "thumbnail": "images/sculptures/mala-flecistka/tn.jpg"
+    "thumbnail": "images/sculptures/mala-flecistka/tn.jpg",
+    "active": true
   },
 
   {
@@ -486,7 +521,8 @@
       "ZYGMUNT III 5.jpg",
       "ZYGMUNT III 6.jpg"
     ],
-    "thumbnail": "images/sculptures/zygmunt-iii-waza/tn.jpg"
+    "thumbnail": "images/sculptures/zygmunt-iii-waza/tn.jpg",
+    "active": true
   },
 
   {
@@ -499,7 +535,8 @@
       "PIERROT 3.jpg",
       "PIERROT 4.jpg"
     ],
-    "thumbnail": "images/sculptures/pierrot/tn.jpg"
+    "thumbnail": "images/sculptures/pierrot/tn.jpg",
+    "active": true
   },
 
   {
@@ -514,7 +551,8 @@
       "huzar5.jpg",
       "huzar6.jpg"
     ],
-    "thumbnail": "images/sculptures/huzar-francuski-7-pulku/tn.jpg"
+    "thumbnail": "images/sculptures/huzar-francuski-7-pulku/tn.jpg",
+    "active": true
   },
 
   {
@@ -529,7 +567,8 @@
       "Serenada2_5.jpg",
       "Serenada2_6.jpg"
     ],
-    "thumbnail": "images/sculptures/serenada-2/tn.jpg"
+    "thumbnail": "images/sculptures/serenada-2/tn.jpg",
+    "active": true
   },
 
   {
@@ -542,7 +581,8 @@
       "dudziarz 3.jpg",
       "dudziarz 4.jpg"
     ],
-    "thumbnail": "images/sculptures/dudziarz/tn.jpg"
+    "thumbnail": "images/sculptures/dudziarz/tn.jpg",
+    "active": true
   },
 
   {
@@ -557,7 +597,8 @@
       "TemidaV5.jpg",
       "TemidaV6.jpg"
     ],
-    "thumbnail": "images/sculptures/temida-polska/tn.jpg"
+    "thumbnail": "images/sculptures/temida-polska/tn.jpg",
+    "active": true
   },
 
   {
@@ -572,7 +613,8 @@
       "Batorowski5.jpg",
       "Batorowski6.jpg"
     ],
-    "thumbnail": "images/sculptures/batorowski-rycerz/tn.jpg"
+    "thumbnail": "images/sculptures/batorowski-rycerz/tn.jpg",
+    "active": true
   },
 
   {
@@ -587,7 +629,8 @@
       "TemidaBursztynowa5.jpg",
       "TemidaBursztynowa6.jpg"
     ],
-    "thumbnail": "images/sculptures/temida-bursztynowa/tn.jpg"
+    "thumbnail": "images/sculptures/temida-bursztynowa/tn.jpg",
+    "active": true
   },
 
   {
@@ -602,7 +645,8 @@
       "RycerzPolski5.jpg",
       "RycerzPolski6.jpg"
     ],
-    "thumbnail": "images/sculptures/rycerz-polski/tn.jpg"
+    "thumbnail": "images/sculptures/rycerz-polski/tn.jpg",
+    "active": true
   },
 
   {
@@ -617,7 +661,8 @@
       "zolnierz_5.jpg",
       "zolnierz_6.jpg"
     ],
-    "thumbnail": "images/sculptures/zolnierz-polski-1939/tn.jpg"
+    "thumbnail": "images/sculptures/zolnierz-polski-1939/tn.jpg",
+    "active": true
   },
 
   {
@@ -632,7 +677,8 @@
       "SailorsAngel5.jpg",
       "SailorsAngel6.jpg"
     ],
-    "thumbnail": "images/sculptures/sailors-angel/tn.jpg"
+    "thumbnail": "images/sculptures/sailors-angel/tn.jpg",
+    "active": true
   },
 
   {
@@ -647,6 +693,7 @@
       "angel5.jpg",
       "angel6.jpg"
     ],
-    "thumbnail": "images/sculptures/angel-of-art/tn.jpg"
+    "thumbnail": "images/sculptures/angel-of-art/tn.jpg",
+    "active": true
   }
 ]

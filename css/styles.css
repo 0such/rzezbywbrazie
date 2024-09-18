@@ -38,6 +38,10 @@ header nav a:hover {
   text-decoration: underline; /* Podkreślenie linku po najechaniu */
 }
 
+footer {
+  max-width: 1200px;
+  margin: auto;  
+}
 
   
 /* about */

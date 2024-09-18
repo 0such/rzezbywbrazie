@@ -29,30 +29,30 @@
         <ul class="sculpture-list" id="sculptureList"></ul>
     </section>
     <footer>
-        <p>&copy; 2024 Dariusz Bąkowski</p>
+        <p>&copy; 2024 Dariusz Bąkowski | Wszystkie prawa zastrzeżone. Zdjęcia rzeźb objęte są prawami autorskimi.</p>
     </footer>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             fetch('sculptures.json')
-                .then(response => response.json())
-                .then(data => {
-                    const sculptureList = document.getElementById('sculptureList');
-                    data.forEach(sculpture => {
-                        const listItem = document.createElement('li');
-                        const link = document.createElement('a');
-                        link.href = `rzezba.html?id=${sculpture.id}`;
-                        const img = document.createElement('img');
-                        img.src = sculpture.thumbnail;
-                        img.alt = sculpture.name;
-                        img.classList.add('avatar');
-                        const text = document.createTextNode(sculpture.name);
-                        link.appendChild(img);
-                        link.appendChild(text);
-                        listItem.appendChild(link);
-                        sculptureList.appendChild(listItem);
-                    });
-                })
-                .catch(error => console.error('Error loading sculptures:', error));
+            .then(response => response.json())
+            .then(data => {
+                const sculptureList = document.getElementById('sculptureList');
+                data.filter(sculpture => sculpture.active).forEach(sculpture => {
+                const listItem = document.createElement('li');
+                const link = document.createElement('a');
+                link.href = `rzezba.html?id=${sculpture.id}`;
+                const img = document.createElement('img');
+                img.src = sculpture.thumbnail;
+                img.alt = sculpture.name;
+                img.classList.add('avatar');
+                const text = document.createTextNode(sculpture.name);
+                link.appendChild(img);
+                link.appendChild(text);
+                listItem.appendChild(link);
+                sculptureList.appendChild(listItem);
+                });
+            })
+            .catch(error => console.error('Error loading sculptures:', error));
         });
     </script>
 </body>
