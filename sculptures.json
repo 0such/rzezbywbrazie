@@ -213,6 +213,22 @@
   },
 
   {
+    "id": "temida",
+    "name": "Temida",
+    "description": "Brąz patynowany, marmur. Wysokość łączna 35 cm.",
+    "images": [
+      "temida1.jpg",
+      "temida2.jpg",
+      "temida3.jpg",
+      "temida4.jpg",
+      "temida5.jpg",
+      "temida6.jpg"
+    ],
+    "thumbnail": "images/sculptures/temida/tn.jpg",
+    "active": true
+  },
+
+  {
     "id": "temida-3",
     "name": "Temida III",
     "description": "Brąz patynowany, bursztyn bałtycki, granit. Wysokość z cokołem 36 cm.",
