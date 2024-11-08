@@ -508,6 +508,22 @@
       "szczytzdobyty_6.jpg"
     ],
     "thumbnail": "images/sculptures/szczyt-zdobyty/tn.jpg",
+    "active": false
+  },
+
+  {
+    "id": "sila-geometrii",
+    "name": "Siła Geometrii",
+    "description": "Brąz patynowany, marmur, granit. Wysokość całkowita 36 cm.",
+    "images": [
+      "SilaGeometrii1.jpg",
+      "SilaGeometrii2.jpg",
+      "SilaGeometrii3.jpg",
+      "SilaGeometrii4.jpg",
+      "SilaGeometrii5.jpg",
+      "SilaGeometrii6.jpg"
+    ],
+    "thumbnail": "images/sculptures/sila-geometrii/tn.jpg",
     "active": true
   },
 
