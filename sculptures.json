@@ -127,6 +127,21 @@
     "active": true
   },
   {
+    "id": "chwila-relaksu",
+    "name": "Chwila relaksu",
+    "description": "Brąz, marmur. Wysokość całkowita 33 cm.",
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg"
+    ],
+    "thumbnail": "images/sculptures/chwila-relaksu/tn.jpg",
+    "active": true
+  },
+  {
     "id": "klucznik-wg-andriolli",
     "name": "KLUCZNIK wg E.Andriolli 1881 r.",
     "description": "Brąz, marmur złocisty. Wysokość 25 cm.",
