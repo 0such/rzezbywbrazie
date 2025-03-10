@@ -45,6 +45,21 @@
     "active": true
   },
   {
+    "id": "jozef-poniatowski",
+    "name": "Książę Józef Poniatowski",
+    "description": "Brąz patynowany, marmur. Wysokość z cokołem 19 cm.",
+    "images": [
+      "j_poniatowski_1.jpg",
+      "j_poniatowski_2.jpg",
+      "j_poniatowski_3.jpg",
+      "j_poniatowski_4.jpg",
+      "j_poniatowski_5.jpg",
+      "j_poniatowski_6.jpg"
+    ],
+    "thumbnail": "images/sculptures/jozef-poniatowski/tn.jpg",
+    "active": true
+  },
+  {
     "id": "jozef-pilsudzki",
     "name": "Józef Piłsudski",
     "description": "Wzór z 1935r. Brąz, marmur. Wysokość 21 cm.",
