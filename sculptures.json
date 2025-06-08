@@ -598,6 +598,21 @@
     "thumbnail": "images/sculptures/zygmunt-iii-waza/tn.jpg",
     "active": true
   },
+    {
+    "id": "sila-grawitacji",
+    "name": "Siła grawitacji",
+    "description": "Brąz patynowany, marmur, granit. Wysokość łączna 45 cm.",
+    "images": [
+      "silagrawitacji1.jpg",
+      "silagrawitacji2.jpg",
+      "silagrawitacji3.jpg",
+      "silagrawitacji4.jpg",
+      "silagrawitacji5.jpg",
+      "silagrawitacji6.jpg"
+    ],
+    "thumbnail": "images/sculptures/sila-grawitacji/tn.jpg",
+    "active": true
+  },
   {
     "id": "pierrot",
     "name": "Pierrot",
@@ -609,7 +624,7 @@
       "PIERROT 4.jpg"
     ],
     "thumbnail": "images/sculptures/pierrot/tn.jpg",
-    "active": true
+    "active": false
   },
   {
     "id": "huzar-francuski-7-pulku",
