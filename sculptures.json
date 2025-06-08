@@ -223,12 +223,12 @@
     "name": "Kozak - Victory",
     "description": "brąz patynowany, granit. Wysokość 24 cm.",
     "images": [
-      "Kozak Victory 1.jpg",
-      "Kozak Victory 3.jpg",
-      "Kozak Victory 6.jpg",
-      "Kozak Victory 7.jpg",
-      "Kozak Victory 8.jpg",
-      "Kozak Victory 12.jpg"
+      "KozakVictory 1.jpg",
+      "KozakVictory 3.jpg",
+      "KozakVictory 6.jpg",
+      "KozakVictory 7.jpg",
+      "KozakVictory 8.jpg",
+      "KozakVictory 12.jpg"
     ],
     "thumbnail": "images/sculptures/kozak-victory/tn.jpg",
     "active": true
