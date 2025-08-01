@@ -218,6 +218,21 @@
     "thumbnail": "images/sculptures/wojski/tn.jpg",
     "active": true
   },
+    {
+    "id": "poszli-w-tango",
+    "name": "Poszli w Tango",
+    "description": "Brąz patynowany, onyks. Wysokość 32 cm",
+    "images": [
+      "tango1.jpg",
+      "tango2.jpg",
+      "tango3.jpg",
+      "tango4.jpg",
+      "tango5.jpg",
+      "tango6.jpg"
+    ],
+    "thumbnail": "images/sculptures/poszli-w-tango/tn.jpg",
+    "active": true
+  },
   {
     "id": "kozak-victory",
     "name": "Kozak - Victory",
