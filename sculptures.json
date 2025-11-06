@@ -218,7 +218,7 @@
     "thumbnail": "images/sculptures/wojski/tn.jpg",
     "active": true
   },
-    {
+  {
     "id": "poszli-w-tango",
     "name": "Poszli w Tango",
     "description": "Brąz patynowany, onyks. Wysokość 32 cm",
@@ -246,6 +246,21 @@
       "KozakVictory 12.jpg"
     ],
     "thumbnail": "images/sculptures/kozak-victory/tn.jpg",
+    "active": true
+  },
+  {
+    "id": "nadzieja",
+    "name": "NADZIEJA z cyklu \"Trzy Cnoty\"",
+    "description": "Brąz patynowany, marmur. Wysokość z cokołem 34 cm.",
+    "images": [
+      "Nadzieja1.jpg",
+      "Nadzieja2.jpg",
+      "Nadzieja3.jpg",
+      "Nadzieja4.jpg",
+      "Nadzieja5.jpg",
+      "Nadzieja6.jpg"
+    ],
+    "thumbnail": "images/sculptures/nadzieja/tn.jpg",
     "active": true
   },
   {
