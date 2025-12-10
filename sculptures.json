@@ -540,6 +540,21 @@
       "pierrot_wosk6.jpg"
     ],
     "thumbnail": "images/sculptures/pierrot-wosk/tn.jpg",
+    "active": false
+  },
+  {
+    "id": "love",
+    "name": "'Love' z cyklu Trzy Cnoty",
+    "description": "Brąz patynowany, marmur. Wysokość 36 cm.",
+    "images": [
+      "LOVE1.jpg",
+      "LOVE2.jpg",
+      "LOVE3.jpg",
+      "LOVE4.jpg",
+      "LOVE5.jpg",
+      "LOVE6.jpg"
+    ],
+    "thumbnail": "images/sculptures/love/tn.jpg",
     "active": true
   },
   {
