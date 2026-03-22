@@ -129,6 +129,21 @@
       "VERBUM NOBILE 6.jpg"
     ],
     "thumbnail": "images/sculptures/verbum-nobile/tn.jpg",
+    "active": false
+  },
+    {
+    "id": "rownoleglosc",
+    "name": "Równoległość",
+    "description": "Brąz patynowany, granit, bursztyn, szkło. Wysokość całkowita 34 cm.",
+    "images": [
+      "rownoleglosc1.jpg",
+      "rownoleglosc2.jpg",
+      "rownoleglosc3.jpg",
+      "rownoleglosc4.jpg",
+      "rownoleglosc5.jpg",
+      "rownoleglosc6.jpg"
+    ],
+    "thumbnail": "images/sculptures/rownoleglosc/tn.jpg",
     "active": true
   },
   {
@@ -393,7 +408,7 @@
       "Mazur_6.jpg"
     ],
     "thumbnail": "images/sculptures/mazur-polish-dance/tn.jpg",
-    "active": true
+    "active": false
   },
   {
     "id": "tatry-1932",
@@ -727,7 +742,7 @@
       "TemidaV6.jpg"
     ],
     "thumbnail": "images/sculptures/temida-polska/tn.jpg",
-    "active": true
+    "active": false
   },
   {
     "id": "batorowski-rycerz",
