@@ -219,6 +219,21 @@
     "active": true
   },
   {
+    "id": "blackwhite",
+    "name": "Black & White",
+    "description": "Brąz patynowany, marmur, szkło. Wysokość całkowita 44cm.",
+    "images": [
+      "BlackWhite1.jpg",
+      "BlackWhite2.jpg",
+      "BlackWhite3.jpg",
+      "BlackWhite4.jpg",
+      "BlackWhite5.jpg",
+      "BlackWhite6.jpg"
+    ],
+    "thumbnail": "images/sculptures/blackwhite/tn.jpg",
+    "active": true
+  },
+  {
     "id": "wojski",
     "name": "Wojski",
     "description": "Brąz patynowany, granit. Wysokość z cokołem 26 cm",
