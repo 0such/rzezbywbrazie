@@ -264,6 +264,21 @@
     "active": true
   },
   {
+    "id": "lady-amber",
+    "name": "Lady Amber",
+    "description": "Brąz patynowany, marmur, bursztyn bałtycki. Wysokość całkowita 30 cm",
+    "images": [
+      "lady_amber_1.jpg",
+      "lady_amber_2.jpg",
+      "lady_amber_3.jpg",
+      "lady_amber_4.jpg",
+      "lady_amber_5.jpg",
+      "lady_amber_6.jpg"
+    ],
+    "thumbnail": "images/sculptures/lady-amber/tn.jpg",
+    "active": true
+  },
+  {
     "id": "kozak-victory",
     "name": "Kozak - Victory",
     "description": "brąz patynowany, granit. Wysokość 24 cm.",
