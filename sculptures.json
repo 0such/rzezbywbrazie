@@ -470,6 +470,21 @@
     "thumbnail": "images/sculptures/vivat-rex/tn.jpg",
     "active": true
   },
+    {
+    "id": "skrzypek",
+    "name": "Skrzypek na dachu",
+    "description": "brąz patynowany, marmur. Wysokość całkowita 39 cm.",
+    "images": [
+      "skrzypek1.jpg",
+      "skrzypek2.jpg",
+      "skrzypek3.jpg",
+      "skrzypek4.jpg",
+      "skrzypek5.jpg",
+      "skrzypek6.jpg"
+    ],
+    "thumbnail": "images/sculptures/skrzypek/tn.jpg",
+    "active": true
+  },
   {
     "id": "swiety-jerzy",
     "name": "Święty Jerzy",
