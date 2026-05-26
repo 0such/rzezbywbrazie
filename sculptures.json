@@ -544,6 +544,21 @@
     "active": true
   },
   {
+    "id": "wolnosc-i-swoboda",
+    "name": "Wolność i Swoboda",
+    "description": "Brąz patynowany, onyks. Wysokość łączna 34 cm.",
+    "images": [
+      "wolnosc1.jpg",
+      "wolnosc2.jpg",
+      "wolnosc3.jpg",
+      "wolnosc4.jpg",
+      "wolnosc5.jpg",
+      "wolnosc6.jpg"
+    ],
+    "thumbnail": "images/sculptures/wolnosc-i-swoboda/tn.jpg",
+    "active": true
+  },
+  {
     "id": "gregorian-man",
     "name": "Gregorian man",
     "description": "Brąz patynowany, granit, onyks biały. Wysokość łączna 30 cm.",
