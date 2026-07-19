@@ -366,6 +366,21 @@
       "temida3_6.jpg"
     ],
     "thumbnail": "images/sculptures/temida-3/tn.jpg",
+    "active": false
+  },
+  {
+    "id": "wiara-trzy-cnoty",
+    "name": "Wiara z cyklu 'Trzy cnoty'",
+    "description": "Brąz srebrzony, marmur, granit. Wysokość łączna 17 cm.",
+    "images": [
+      "wiara3cnoty1.jpg",
+      "wiara3cnoty2.jpg",
+      "wiara3cnoty3.jpg",
+      "wiara3cnoty4.jpg",
+      "wiara3cnoty5.jpg",
+      "wiara3cnoty6.jpg"
+    ],
+    "thumbnail": "images/sculptures/wiara-trzy-cnoty/tn.jpg",
     "active": true
   },
   {
