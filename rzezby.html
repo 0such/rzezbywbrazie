@@ -42,7 +42,7 @@
                 const link = document.createElement('a');
                 link.href = `rzezba.html?id=${sculpture.id}`;
                 const img = document.createElement('img');
-                img.src = sculpture.thumbnail;
+                img.src = `images/sculptures/${sculpture.id}/tn.jpg`//sculpture.thumbnail;
                 img.alt = sculpture.name;
                 img.classList.add('avatar');
                 const text = document.createTextNode(sculpture.name);
