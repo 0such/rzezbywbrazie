@@ -775,6 +775,20 @@
       "dudziarz 3.jpg",
       "dudziarz 4.jpg"
     ],
+    "active": false
+  },
+    {
+    "id": "nauka-latania",
+    "name": "Nauka Latania",
+    "description": "Brąz, granit. Wysokość 36cm.",
+    "images": [
+      "Nauka_Latania_1.jpg",
+      "Nauka_Latania_2.jpg",
+      "Nauka_Latania_3.jpg",
+      "Nauka_Latania_4.jpg",
+      "Nauka_Latania_5.jpg",
+      "Nauka_Latania_6.jpg"
+    ],
     "active": true
   },
   {
